@@ -1,7 +1,7 @@
 # indicadores-economicos
 
 
-<img src="/images/preview.png" >
+<img src="/images/preview.PNG" >
 
 ## Project setup
 ```
